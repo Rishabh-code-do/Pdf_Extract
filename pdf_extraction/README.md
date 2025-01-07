@@ -73,4 +73,4 @@ Access the app at `http://127.0.0.1:8000`.
 
 **Example Request:**
 ```bash
-http://127.0.0.1:8000/query/?date=2025-01-01&security_tag=confidential
+http://127.0.0.1:8000/app/query/?date=2025-01-01&security_tag=confidential
